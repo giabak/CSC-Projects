@@ -1,1 +1,1 @@
-# CSC222-ObjectOrientedProgramming
+# CSC Projects
